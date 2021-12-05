@@ -14,6 +14,8 @@ Elbow chart to find best fit for K-Means
 Tradable table of cryptocurrencies
 ![table](https://user-images.githubusercontent.com/88061345/144758844-bf8c72bf-d96d-42d6-b414-68edef15d455.PNG)
 
+
 Scatter plot
+
 ![hvplot](https://user-images.githubusercontent.com/88061345/144758862-f02ae088-2776-4093-b268-ed69765f07b9.png)
 
